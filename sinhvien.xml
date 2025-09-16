@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lop>
+    <sinhvien>
+        <name>Nguyễn Văn EN</name>
+        <id>SV001</id>
+        <subjects>
+            <subject>
+                <subject_name>Toán</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lý</subject_name>
+                <score>7.8</score>
+            </subject>
+            <subject>
+                <subject_name>Hóa</subject_name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+
+    <sinhvien>
+        <name>Trần Thị Enh</name>
+        <id>SV002</id>
+        <subjects>
+            <subject>
+                <subject_name>Toán</subject_name>
+                <score>6.5</score>
+            </subject>
+            <subject>
+                <subject_name>Văn</subject_name>
+                <score>8.0</score>
+            </subject>
+            <subject>
+                <subject_name>Anh</subject_name>
+                <score>7.2</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+
+    <sinhvien>
+        <name>Lê Văn Anh</name>
+        <id>SV003</id>
+        <subjects>
+            <subject>
+                <subject_name>Lịch sử</subject_name>
+                <score>9.1</score>
+            </subject>
+            <subject>
+                <subject_name>Địa lý</subject_name>
+                <score>8.7</score>
+            </subject>
+            <subject>
+                <subject_name>GDCD</subject_name>
+                <score>7.9</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+</lop>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuahang>
+    <sanpham id="SP001" category="IphoneXXX" price="15000000" currency="VND" />
+    <sanpham id="SP002" category="Áo thung trắng ngày hè" price="750000" currency="VND" />
+    <sanpham id="SP003" category="Dao bếp" price="120" currency="USD" />
+    <sanpham id="SP004" category="Katana" price="5029223" currency="USD" />
+    <sanpham id="SP005" category="Barret" price="1200000" currency="USD" />
+</cuahang>

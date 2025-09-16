@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital xmlns="http://example.com/hospital"
+          xmlns:pat="http://example.com/patient"
+          xmlns:doc="http://example.com/doctor"
+          xmlns:app="http://example.com/appointment">
+
+    <!-- Cuộc hẹn 1 -->
+    <app:appointment id="A001" date="2025-03-05" status="Đã khám">
+        <pat:patient id="P001">
+            <pat:name>Lê Nhã Enh</pat:name>
+            <pat:dob>1992-07-15</pat:dob>
+        </pat:patient>
+        <doc:doctor id="D001">
+            <doc:name>Trần Thị Khi</doc:name>
+            <doc:specialty>Nội khoa</doc:specialty>
+        </doc:doctor>
+    </app:appointment>
+
+    <!-- Cuộc hẹn 2 -->
+    <app:appointment id="A002" date="2025-03-10" status="Chưa khám">
+        <pat:patient id="P002">
+            <pat:name>Phạm Văn Cường</pat:name>
+            <pat:dob>1985-11-22</pat:dob>
+        </pat:patient>
+        <doc:doctor id="D002">
+            <doc:name>Lê Văn Dũng</doc:name>
+            <doc:specialty>Ngoại khoa</doc:specialty>
+        </doc:doctor>
+    </app:appointment>
+
+    <!-- Cuộc hẹn 3 -->
+    <app:appointment id="A003" date="2025-03-15" status="Đã khám">
+        <pat:patient id="P003">
+            <pat:name>Nguyễn Thị Hoa</pat:name>
+            <pat:dob>1998-03-08</pat:dob>
+        </pat:patient>
+        <doc:doctor id="D003">
+            <doc:name>Phạm Văn Minh</doc:name>
+            <doc:specialty>Nhi khoa</doc:specialty>
+        </doc:doctor>
+    </app:appointment>
+
+    <!-- Cuộc hẹn 4 -->
+    <app:appointment id="A004" date="2025-03-20" status="Chưa khám">
+        <pat:patient id="P004">
+            <pat:name>Đỗ Văn Khánh</pat:name>
+            <pat:dob>1979-12-01</pat:dob>
+        </pat:patient>
+        <doc:doctor id="D004">
+            <doc:name>Ngô Thị Hạnh</doc:name>
+            <doc:specialty>Tim mạch</doc:specialty>
+        </doc:doctor>
+    </app:appointment>
+
+</hospital>

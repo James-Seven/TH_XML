@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Đark Nhân Tâm</title>
+        <author>Dale Carnegie</author>
+        <year>1936</year>
+        <genre>Kỹ năng sống</genre>
+    </sach>
+
+    <sach>
+        <title>Young Đáng Giá Bao Nhiêu</title>
+        <author>Rosie Nguyễn</author>
+        <year>2016</year>
+        <genre>Tản văn</genre>
+    </sach>
+
+    <sach>
+        <title>Nhà Giả Bạc</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <genre>Tiểu thuyết</genre>
+    </sach>
+    <sach>
+        <title>Cây Cam Nhỏ</title>
+        <author>Nghiện Ancohol</author>
+        <year>2004</year>
+        <genre>Kỹ năng sống</genre>
+    </sach>
+</thuvien>

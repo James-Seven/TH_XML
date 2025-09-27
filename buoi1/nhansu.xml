@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company xmlns:hr="http://company.com/hr" xmlns:dep="http://company.com/department">
 
+    <!-- Phòng Kế toán -->
     <dep:department name="Kế toán">
         <hr:employee id="E001">
             <hr:name>Nguyễn Văn Enh</hr:name>
@@ -10,16 +11,105 @@
             <hr:name>Trần Thị Khi</hr:name>
             <hr:position>Kế toán viên</hr:position>
         </hr:employee>
+        <hr:employee id="E005">
+            <hr:name>Phạm Văn Nam</hr:name>
+            <hr:position>Chuyên viên kiểm toán</hr:position>
+        </hr:employee>
+        <hr:employee id="E006">
+            <hr:name>Vũ Thị Hạnh</hr:name>
+            <hr:position>Kế toán nội bộ</hr:position>
+        </hr:employee>
+        <hr:employee id="E012">
+            <hr:name>Nguyễn Thị Bích</hr:name>
+            <hr:position>Nhân viên đối soát</hr:position>
+        </hr:employee>
     </dep:department>
 
+    <!-- Phòng Công nghệ thông tin -->
     <dep:department name="Công nghệ thông tin">
         <hr:employee id="E003">
-            <hr:name>Lê Văn C</hr:name>
+            <hr:name>Lê Văn Quang</hr:name>
             <hr:position>Lập trình viên</hr:position>
         </hr:employee>
         <hr:employee id="E004">
             <hr:name>Phạm Thị Hưng</hr:name>
             <hr:position>Quản trị hệ thống</hr:position>
+        </hr:employee>
+        <hr:employee id="E007">
+            <hr:name>Ngô Minh Tuấn</hr:name>
+            <hr:position>Chuyên viên an ninh mạng</hr:position>
+        </hr:employee>
+        <hr:employee id="E008">
+            <hr:name>Đặng Thị Hoa</hr:name>
+            <hr:position>Kiểm thử phần mềm</hr:position>
+        </hr:employee>
+        <hr:employee id="E013">
+            <hr:name>Hoàng Văn Phúc</hr:name>
+            <hr:position>Quản lý dự án</hr:position>
+        </hr:employee>
+        <hr:employee id="E014">
+            <hr:name>Trần Thị Ngọc</hr:name>
+            <hr:position>Nhà thiết kế giao diện</hr:position>
+        </hr:employee>
+    </dep:department>
+
+    <!-- Phòng Nhân sự -->
+    <dep:department name="Nhân sự">
+        <hr:employee id="E009">
+            <hr:name>Hoàng Thị Mai</hr:name>
+            <hr:position>Trưởng phòng nhân sự</hr:position>
+        </hr:employee>
+        <hr:employee id="E010">
+            <hr:name>Nguyễn Văn Long</hr:name>
+            <hr:position>Chuyên viên tuyển dụng</hr:position>
+        </hr:employee>
+        <hr:employee id="E011">
+            <hr:name>Trần Thị Lan</hr:name>
+            <hr:position>Chuyên viên đào tạo</hr:position>
+        </hr:employee>
+        <hr:employee id="E015">
+            <hr:name>Đỗ Văn Khải</hr:name>
+            <hr:position>Chuyên viên lương thưởng</hr:position>
+        </hr:employee>
+    </dep:department>
+
+    <!-- Phòng Kinh doanh -->
+    <dep:department name="Kinh doanh">
+        <hr:employee id="E016">
+            <hr:name>Nguyễn Hoàng Anh</hr:name>
+            <hr:position>Giám đốc kinh doanh</hr:position>
+        </hr:employee>
+        <hr:employee id="E017">
+            <hr:name>Lê Thị Thu</hr:name>
+            <hr:position>Nhân viên bán hàng</hr:position>
+        </hr:employee>
+        <hr:employee id="E018">
+            <hr:name>Phạm Minh Đức</hr:name>
+            <hr:position>Chuyên viên phân tích thị trường</hr:position>
+        </hr:employee>
+        <hr:employee id="E019">
+            <hr:name>Trần Văn Hải</hr:name>
+            <hr:position>Chuyên viên chăm sóc khách hàng</hr:position>
+        </hr:employee>
+    </dep:department>
+
+    <!-- Phòng Marketing -->
+    <dep:department name="Marketing">
+        <hr:employee id="E020">
+            <hr:name>Đặng Thị Yến</hr:name>
+            <hr:position>Trưởng phòng marketing</hr:position>
+        </hr:employee>
+        <hr:employee id="E021">
+            <hr:name>Nguyễn Văn Khánh</hr:name>
+            <hr:position>Chuyên viên quảng cáo</hr:position>
+        </hr:employee>
+        <hr:employee id="E022">
+            <hr:name>Trần Thị Quyên</hr:name>
+            <hr:position>Chuyên viên truyền thông</hr:position>
+        </hr:employee>
+        <hr:employee id="E023">
+            <hr:name>Hoàng Minh Tâm</hr:name>
+            <hr:position>Chuyên viên thiết kế nội dung</hr:position>
         </hr:employee>
     </dep:department>
 

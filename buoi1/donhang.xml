@@ -25,4 +25,57 @@
         </prod:item>
     </order:order>
 
+    <!-- Đơn hàng 3 -->
+    <order:order id="O003" customer="Nguyễn Văn An" date="2025-03-07">
+        <prod:item id="P006" quantity="1" price="12000">
+            <prod:name>Máy in Canon</prod:name>
+        </prod:item>
+        <prod:item id="P007" quantity="2" price="3500">
+            <prod:name>Bàn phím cơ</prod:name>
+        </prod:item>
+    </order:order>
+
+    <!-- Đơn hàng 4 -->
+    <order:order id="O004" customer="Phạm Thị Bình" date="2025-03-09">
+        <prod:item id="P008" quantity="4" price="450">
+            <prod:name>Chuột không dây</prod:name>
+        </prod:item>
+        <prod:item id="P009" quantity="2" price="8200">
+            <prod:name>Màn hình LG 24 inch</prod:name>
+        </prod:item>
+    </order:order>
+
+    <!-- Đơn hàng 5 -->
+    <order:order id="O005" customer="Đỗ Văn Chu" date="2025-03-12">
+        <prod:item id="P010" quantity="1" price="25000">
+            <prod:name>Máy hút bụi Philips</prod:name>
+        </prod:item>
+        <prod:item id="P011" quantity="6" price="120">
+            <prod:name>Bóng đèn LED</prod:name>
+        </prod:item>
+        <prod:item id="P012" quantity="2" price="9800">
+            <prod:name>Smart TV Sony</prod:name>
+        </prod:item>
+    </order:order>
+
+    <!-- Đơn hàng 6 -->
+    <order:order id="O006" customer="Trịnh Văn Dũng" date="2025-03-15">
+        <prod:item id="P013" quantity="1" price="72000">
+            <prod:name>Tủ lạnh Panasonic</prod:name>
+        </prod:item>
+        <prod:item id="P014" quantity="1" price="115000">
+            <prod:name>Máy giặt Toshiba</prod:name>
+        </prod:item>
+    </order:order>
+
+    <!-- Đơn hàng 7 -->
+    <order:order id="O007" customer="Hoàng Thị Em" date="2025-03-18">
+        <prod:item id="P015" quantity="10" price="150">
+            <prod:name>USB 32GB Kingston</prod:name>
+        </prod:item>
+        <prod:item id="P016" quantity="3" price="2400">
+            <prod:name>Ổ cứng HDD 1TB</prod:name>
+        </prod:item>
+    </order:order>
+
 </orders>

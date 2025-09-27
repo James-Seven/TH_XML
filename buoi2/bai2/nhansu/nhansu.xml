@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "nhansu.dtd">
+
+<company>
+
+    <!-- Phòng Kế toán -->
+    <department name="Kế toán">
+        <employee id="E001">
+            <name>Nguyễn Văn Enh</name>
+            <position>Kế toán trưởng</position>
+        </employee>
+        <employee id="E002">
+            <name>Trần Thị Khi</name>
+            <position>Kế toán viên</position>
+        </employee>
+        <employee id="E005">
+            <name>Phạm Văn Nam</name>
+            <position>Chuyên viên kiểm toán</position>
+        </employee>
+        <employee id="E006">
+            <name>Vũ Thị Hạnh</name>
+            <position>Kế toán nội bộ</position>
+        </employee>
+        <employee id="E012">
+            <name>Nguyễn Thị Bích</name>
+            <position>Nhân viên đối soát</position>
+        </employee>
+    </department>
+
+    <!-- Phòng Công nghệ thông tin -->
+    <department name="Công nghệ thông tin">
+        <employee id="E003">
+            <name>Lê Văn Quang</name>
+            <position>Lập trình viên</position>
+        </employee>
+        <employee id="E004">
+            <name>Phạm Thị Hưng</name>
+            <position>Quản trị hệ thống</position>
+        </employee>
+        <employee id="E007">
+            <name>Ngô Minh Tuấn</name>
+            <position>Chuyên viên an ninh mạng</position>
+        </employee>
+        <employee id="E008">
+            <name>Đặng Thị Hoa</name>
+            <position>Kiểm thử phần mềm</position>
+        </employee>
+        <employee id="E013">
+            <name>Hoàng Văn Phúc</name>
+            <position>Quản lý dự án</position>
+        </employee>
+        <employee id="E014">
+            <name>Trần Thị Ngọc</name>
+            <position>Nhà thiết kế giao diện</position>
+        </employee>
+    </department>
+
+    <!-- Phòng Nhân sự -->
+    <department name="Nhân sự">
+        <employee id="E009">
+            <name>Hoàng Thị Mai</name>
+            <position>Trưởng phòng nhân sự</position>
+        </employee>
+        <employee id="E010">
+            <name>Nguyễn Văn Long</name>
+            <position>Chuyên viên tuyển dụng</position>
+        </employee>
+        <employee id="E011">
+            <name>Trần Thị Lan</name>
+            <position>Chuyên viên đào tạo</position>
+        </employee>
+        <employee id="E015">
+            <name>Đỗ Văn Khải</name>
+            <position>Chuyên viên lương thưởng</position>
+        </employee>
+    </department>
+
+    <!-- Phòng Kinh doanh -->
+    <department name="Kinh doanh">
+        <employee id="E016">
+            <name>Nguyễn Hoàng Anh</name>
+            <position>Giám đốc kinh doanh</position>
+        </employee>
+        <employee id="E017">
+            <name>Lê Thị Thu</name>
+            <position>Nhân viên bán hàng</position>
+        </employee>
+        <employee id="E018">
+            <name>Phạm Minh Đức</name>
+            <position>Chuyên viên phân tích thị trường</position>
+        </employee>
+        <employee id="E019">
+            <name>Trần Văn Hải</name>
+            <position>Chuyên viên chăm sóc khách hàng</position>
+        </employee>
+    </department>
+
+    <!-- Phòng Marketing -->
+    <department name="Marketing">
+        <employee id="E020">
+            <name>Đặng Thị Yến</name>
+            <position>Trưởng phòng marketing</position>
+        </employee>
+        <employee id="E021">
+            <name>Nguyễn Văn Khánh</name>
+            <position>Chuyên viên quảng cáo</position>
+        </employee>
+        <employee id="E022">
+            <name>Trần Thị Quyên</name>
+            <position>Chuyên viên truyền thông</position>
+        </employee>
+        <employee id="E023">
+            <name>Hoàng Minh Tâm</name>
+            <position>Chuyên viên thiết kế nội dung</position>
+        </employee>
+    </department>
+
+</company>

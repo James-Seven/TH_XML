@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuahang SYSTEM "cuahang.dtd">
+
 <cuahang>
     <sanpham id="SP001" category="IphoneXXX" price="15000000" currency="VND" />
     <sanpham id="SP002" category="Áo thun trắng ngày hè" price="750000" currency="VND" />

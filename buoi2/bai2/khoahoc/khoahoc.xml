@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE elearning SYSTEM "khoahoc.dtd">
+<elearning>
+
+    <!-- Khóa học 1 -->
+    <course id="C001" category="Lập trình">
+        <title>Python cơ bản</title>
+        <instructor id="I001">
+            <name>Lê Văn Enh</name>
+            <email>levanenh@example.com</email>
+        </instructor>
+        <students>
+            <student id="S001" progress="80">
+                <name>Trần Thị Khi</name>
+            </student>
+            <student id="S002" progress="50">
+                <name>Hoàng Minh Chi</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 2 -->
+    <course id="C002" category="Thiết kế Web">
+        <title>Lập trình Web cơ bản</title>
+        <instructor id="I002">
+            <name>Phạm Thị Hồng</name>
+            <email>phamthihong@example.com</email>
+        </instructor>
+        <students>
+            <student id="S003" progress="90">
+                <name>Lê Văn Nhanh</name>
+            </student>
+            <student id="S004" progress="65">
+                <name>Ngô Thị Phương</name>
+            </student>
+            <student id="S005" progress="40">
+                <name>Đặng Văn Hòa</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 3 -->
+    <course id="C003" category="Phân tích dữ liệu">
+        <title>Nhập môn Machine Learning</title>
+        <instructor id="I003">
+            <name>Nguyễn Văn Minh</name>
+            <email>nguyenminh@example.com</email>
+        </instructor>
+        <students>
+            <student id="S006" progress="70">
+                <name>Trần Thị Mai</name>
+            </student>
+            <student id="S007" progress="55">
+                <name>Phạm Văn Tuấn</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 4 -->
+    <course id="C004" category="Ngoại ngữ">
+        <title>Tiếng Anh giao tiếp</title>
+        <instructor id="I004">
+            <name>Hoàng Thị Lan</name>
+            <email>hoanglan@example.com</email>
+        </instructor>
+        <students>
+            <student id="S008" progress="85">
+                <name>Đỗ Văn Khánh</name>
+            </student>
+            <student id="S009" progress="60">
+                <name>Nguyễn Thị Hồng</name>
+            </student>
+            <student id="S010" progress="45">
+                <name>Vũ Văn Sơn</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 5 -->
+    <course id="C005" category="Kinh doanh">
+        <title>Quản trị dự án</title>
+        <instructor id="I005">
+            <name>Nguyễn Thị Thu</name>
+            <email>nguyenthu@example.com</email>
+        </instructor>
+        <students>
+            <student id="S011" progress="78">
+                <name>Phan Văn Tùng</name>
+            </student>
+            <student id="S012" progress="62">
+                <name>Trịnh Thị Hòa</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 6 -->
+    <course id="C006" category="Thiết kế đồ họa">
+        <title>Photoshop nâng cao</title>
+        <instructor id="I006">
+            <name>Đặng Văn Thắng</name>
+            <email>dangthang@example.com</email>
+        </instructor>
+        <students>
+            <student id="S013" progress="88">
+                <name>Lý Thị Yến</name>
+            </student>
+            <student id="S014" progress="70">
+                <name>Nguyễn Văn Duy</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 7 -->
+    <course id="C007" category="Điện toán đám mây">
+        <title>Cloud Computing với AWS</title>
+        <instructor id="I007">
+            <name>Trần Văn Phúc</name>
+            <email>tranphuc@example.com</email>
+        </instructor>
+        <students>
+            <student id="S015" progress="92">
+                <name>Nguyễn Hồng Quân</name>
+            </student>
+            <student id="S016" progress="67">
+                <name>Hoàng Lan Anh</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 8 -->
+    <course id="C008" category="Khoa học dữ liệu">
+        <title>SQL và Cơ sở dữ liệu</title>
+        <instructor id="I008">
+            <name>Phạm Văn Long</name>
+            <email>phamlong@example.com</email>
+        </instructor>
+        <students>
+            <student id="S017" progress="75">
+                <name>Đỗ Minh Khang</name>
+            </student>
+            <student id="S018" progress="49">
+                <name>Nguyễn Thị Trang</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 9 -->
+    <course id="C009" category="Kỹ năng mềm">
+        <title>Kỹ năng thuyết trình</title>
+        <instructor id="I009">
+            <name>Ngô Văn Hải</name>
+            <email>ngohai@example.com</email>
+        </instructor>
+        <students>
+            <student id="S019" progress="83">
+                <name>Phạm Quỳnh Như</name>
+            </student>
+            <student id="S020" progress="58">
+                <name>Vũ Văn Cường</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 10 -->
+    <course id="C010" category="Trí tuệ nhân tạo">
+        <title>Deep Learning nâng cao</title>
+        <instructor id="I010">
+            <name>Nguyễn Thị Hằng</name>
+            <email>nguyenhang@example.com</email>
+        </instructor>
+        <students>
+            <student id="S021" progress="95">
+                <name>Đặng Hữu Phát</name>
+            </student>
+            <student id="S022" progress="68">
+                <name>Nguyễn Hoàng My</name>
+            </student>
+        </students>
+    </course>
+
+</elearning>

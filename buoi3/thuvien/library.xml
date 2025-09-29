@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="library.xsd">
+
+    <book id="B001">
+        <title>Lập trình Python</title>
+        <author>Nguyễn Văn Cường</author>
+        <year>2020</year>
+        <genre>Công nghệ</genre>
+    </book>
+
+    <book id="B002">
+        <title>Kinh tế học cơ bản</title>
+        <author>Trần Thị Dung</author>
+        <year>2018</year>
+        <genre>Kinh tế</genre>
+    </book>
+
+    <book id="B003">
+        <title>Trí tuệ nhân tạo</title>
+        <author>Lê Văn Enh</author>
+        <year>2021</year>
+        <genre>Khoa học</genre>
+    </book>
+    
+    <book id="B004">
+        <title>Lịch sử Việt Nam</title>
+        <author>Phạm Thu Hằng</author>
+        <year>2015</year>
+        <genre>Lịch sử</genre>
+    </book>
+
+    <book id="B005">
+        <title>Marketing hiện đại</title>
+        <author>Ngô Quốc Huy</author>
+        <year>2019</year>
+        <genre>Kinh tế</genre>
+    </book>
+
+    <book id="B006">
+        <title>Lập trình Java nâng cao</title>
+        <author>Trần Văn Nam</author>
+        <year>2022</year>
+        <genre>Công nghệ</genre>
+    </book>
+
+</library>

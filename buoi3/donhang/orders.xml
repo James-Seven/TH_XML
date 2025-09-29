@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="orders.xsd">
+    <order id="O001">
+        <product id="P001">
+            <name>Điện thoại iPhone 14</name>
+            <quantity>2</quantity>
+        </product>
+        <product id="P002">
+            <name>Laptop Dell</name>
+            <quantity>1</quantity>
+        </product>
+        <product id="P003">
+            <name>Chuột không dây Logitech</name>
+            <quantity>5</quantity>
+        </product>
+    </order>
+
+    <order id="O002">
+        <product id="P004">
+            <name>Tai nghe Bluetooth</name>
+            <quantity>3</quantity>
+        </product>
+        <product id="P005">
+            <name>Bàn phím cơ</name>
+            <quantity>2</quantity>
+        </product>
+    </order>
+</orders>

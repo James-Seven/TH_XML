@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="student_ID.xsd">
+    <student id="SV01">
+        <name>Nguyễn Thị Thanh Thúy</name>
+        <date>1997-12-20</date>
+    </student>
+    <student id="SV02">
+        <name>Lê Thị Hồng Cẩm</name>
+        <date>1998-01-21</date>
+    </student>
+    <student id="SV03">
+        <name>Lê Hoàng Thanh</name>
+        <date>1970-05-31</date>
+    </student>
+    <student id="SV04">
+        <name>Lê Thị Cảnh</name>
+        <date>1702-03-21</date>
+    </student>
+    <student id="SV05">
+        <name>Nguyễn Thị Cẩm Tú</name>
+        <date>1928-07-21</date>
+    </student>
+    <student id="SV06">
+        <name>Lê Thị Hanh</name>
+        <date>2008-01-08</date>
+    </student>
+    <student id="SV07">
+        <name>Trần Văn Toản</name>
+        <date>2000-01-12</date>
+    </student>
+    <student id="SV08">
+        <name>Lê Thanh Thủy</name>
+        <date>1988-09-17</date>
+    </student>
+    <student id="SV09">
+        <name>Lê Thắm Thía</name>
+        <date>1999-03-21</date>
+    </student>
+    <student id="SV10">
+        <name>Trần Dăn Cường</name>
+        <date>2003-03-03</date>
+    </student>
+      <student id="SV11">
+        <name>Lê Thị Hồng Thắm</name>
+        <date>1993-03-23</date>
+    </student>
+</school>

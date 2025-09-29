@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="students.xsd">
+    <student id="SV001">
+        <name>Nguyễn Văn An</name>
+        <dob>2001-05-10</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+    <student id="SV002">
+        <name>Trần Thị Bá</name>
+        <dob>2002-08-21</dob>
+        <major>Quản trị kinh doanh</major>
+    </student>
+    <student id="SV003">
+        <name>Trần Thị Bánh</name>
+        <dob>2002-05-27</dob>
+        <major>Quản trị kinh doanh</major>
+    </student>
+    <student id="SV004">
+        <name>Trần Thị Bành</name>
+        <dob>2002-02-11</dob>
+        <major>Quản trị kinh doanh</major>
+    </student>
+    <student id="SV005">
+        <name>Lê Minh Khang</name>
+        <dob>2001-11-03</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+    <student id="SV006">
+        <name>Phạm Thu Hà</name>
+        <dob>2000-12-19</dob>
+        <major>Kế toán</major>
+    </student>
+    <student id="SV007">
+        <name>Ngô Quốc Huy</name>
+        <dob>2003-01-07</dob>
+        <major>Marketing</major>
+    </student>
+    <student id="SV008">
+        <name>Đặng Thảo My</name>
+        <dob>2001-09-15</dob>
+        <major>Tài chính ngân hàng</major>
+    </student>
+</students>

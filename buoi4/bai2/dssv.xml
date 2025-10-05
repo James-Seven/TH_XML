@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="dssv.xsd">
+
+  <!-- Danh mục KHOA -->
+  <khoa>
+    <ma>CNTT</ma>
+    <ten>cong nghe thong tin</ten>
+  </khoa>
+
+  <khoa>
+    <ma>QTKD</ma>
+    <ten>quan tri kinh doanh</ten>
+  </khoa>
+
+  <!-- Danh mục LOP -->
+  <lop makhoa="CNTT">
+    <malop>KTPM</malop>
+    <tenlop>Ky thuat phan mem</tenlop>
+  </lop>
+
+  <lop makhoa="CNTT">
+    <malop>HTTT</malop>
+    <tenlop>He thong thong tin</tenlop>
+  </lop>
+
+  <lop makhoa="QTKD">
+    <malop>QTKD</malop>
+    <tenlop>Quan tri doanh nghiep</tenlop>
+  </lop>
+
+  <!-- DANH SÁCH SINH VIÊN -->
+  <sinhvien malop="KTPM">
+    <mssv>SV001</mssv>
+    <hoten>Nguyễn Văn An</hoten>
+    <email>an@example.com</email>
+    <diachi>1 Nguyễn Trãi, Q1</diachi>
+    <sdt>0912345678</sdt>
+  </sinhvien>
+
+  <sinhvien malop="KTPM">
+    <mssv>SV002</mssv>
+    <hoten>Lê Thị Bích</hoten>
+    <email>bich@example.com</email>
+    <diachi>25 Lê Lợi, Q3</diachi>
+    <sdt>0987654321</sdt>
+  </sinhvien>
+
+  <sinhvien malop="HTTT">
+    <mssv>SV003</mssv>
+    <hoten>Trần Văn Cường</hoten>
+    <email>cuong@example.com</email>
+    <diachi>12 Hai Bà Trưng, Q1</diachi>
+    <sdt>0905123456</sdt>
+  </sinhvien>
+
+  <!-- Sửa QTKD1 -> QTKD để khớp lớp đã khai báo -->
+  <sinhvien malop="QTKD">
+    <mssv>SV004</mssv>
+    <hoten>Phạm Thu Hà</hoten>
+    <email>ha@example.com</email>
+    <diachi>56 Pasteur, Q3</diachi>
+    <sdt>0932123456</sdt>
+  </sinhvien>
+
+</DSSV>
